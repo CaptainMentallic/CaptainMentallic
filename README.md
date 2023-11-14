@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align='center'>Hey there👋</h1>
+
+- 🔭 Working on my <a href="https:www.google.com" target="blank">Portfolio</a>
+- ⚡ Currently learning HTML & CSS
+- 🤔 Want to learn more about how electronics work in the future
