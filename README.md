@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Hey there👋</h1>
 
-- 🔭 Working on my <a href="https:www.google.com" target="blank">Side Project</a>
+- 🔭 Working on my <a href="[https:www.google.com](https://captainmentallic.github.io)" target="blank">Side Project</a>
 - ⚡ Currently learning HTML & CSS
 - 🤔 Want to learn more about how electronics work in the future
